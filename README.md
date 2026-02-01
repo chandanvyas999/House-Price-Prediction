@@ -39,3 +39,21 @@ This project has been restructured for better organization:
 
 - To retrain the model, check the `notebooks/` directory.
 - To modify the web app, edit `app/main.py` or `app/templates/index.html`.
+
+---
+
+## Special Credit 🙌
+
+> If he (brother) didn’t tell me, I probably wouldn’t have changed it.
+
+- **Name:** Aman Ranjan
+- **GitHub:** https://github.com/ranjanport
+
+Grateful for the push and motivation.
+
+---
+
+## Links 🔗
+
+- **GitHub:** https://github.com/chandanvyas999  
+- **LinkedIn:** https://www.linkedin.com/in/chandan-vyas/
