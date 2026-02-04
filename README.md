@@ -1,6 +1,6 @@
 # House Price Prediction
 
-A generic machine learning project to predict house prices based on features like bedrooms, bathrooms, size, and zip code.
+A generic machine learning project to predict house prices based on features like bedrooms, bathrooms, size, and zip code
 
 ## Project Structure
 
